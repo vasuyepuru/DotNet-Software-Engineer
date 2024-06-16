@@ -15,19 +15,17 @@
 
 <b>MySQL Course Curriculum</b>
 <ol>
-<li> MySQL Database Architecture </li>
-<li> Basic Syntax </li>
-<li> Logging In and Logging Out </li>
-<li> Database Comments </li>
-<li> Database Design </li>
-<li> Table Creaton </li>
-<li> Data Types </li>
-<li> Primary Keys </li>
-<li> Foreign Keys </li>
-<li> Inserting and Deleting Data </li>
-<li> Displaying Table Values </li>
-<li> Altering Tables </li>
-<li> Renaming Tables </li>
-<li> Joins </li>
+	<li>What is SQL Server? </li>
+	<li>How to Download and Install SQL Server </li>
+  <li>SQL Server Architecture Explained </li>
+  <li>SQL Server Management Studio </li>
+  <li>SQL Server Database — Create, Alter, Drop, Restore </li>
+  <li>SQL Server DataTypes with Examples — Varchar, Numeric, DateTime in SQL </li>
+  <li>SQL Server Variable — Declare, Set, Select, Global, Local [TSQL Examples] </li>
+  <li>SQL Server Table — CREATE, ALTER, DROP [T-SQL Examples] </li>
+  <li>SQL PRIMARY KEY — How to Create & Add to Existing Table </li>
+  <li>SQL FOREIGN KEY — How to Create in SQL Server with Example </li>
+  <li>SQL Server IF…ELSE Condition Statement — Learn with T-SQL Select Query </li>
+  <li>SQL SERVER JOINS Tutorial — INNER, LEFT, RIGHT, OUTER </li>
 <ol>
 
