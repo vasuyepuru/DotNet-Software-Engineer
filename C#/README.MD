@@ -2,7 +2,7 @@
 
 >Our C# programming track is designed for students and working professionals who want to became a DotNet Software Engineer.
 >
->Java is an object-oriented, class-based, concurrent, secured and general-purpose computer-programming language. 
+>C# is an object-oriented, class-based, concurrent, secured and general-purpose computer-programming language. 
 >
 >It is a widely used robust technology.
 
