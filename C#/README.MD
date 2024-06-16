@@ -12,7 +12,7 @@
 
 <b>Targetted Audience </b>
 
-- Our Java programming track is designed to help beginners and professionals.
+- Our C# programming track is designed to help beginners and professionals.
 
 <b>C# Course Curriculum</b>
 <ol>
